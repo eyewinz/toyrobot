@@ -1,0 +1,19 @@
+{
+  "name": "toy-robot",
+  "version": "1.0.0",
+  "description": "Toy Robot that moves across the table (5*5) with CLI commands",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.realestate.com.au:recruiting/toy-robot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "lodash": "^4.17.4"
+  }
+}
